@@ -1,2 +1,2 @@
 # getline
-Read one line
+Read one line at one time in Fortran
